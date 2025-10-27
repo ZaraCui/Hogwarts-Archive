@@ -1,0 +1,5 @@
+ADD COLLECTION tests/data/books_small.csv
+ADD SPELLBOOK tests/data/books_partial.csv 2001
+LIST INVENTORS
+EXIT
+

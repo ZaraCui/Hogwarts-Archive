@@ -1,0 +1,7 @@
+ADD COLLECTION tests/data/books_small.csv
+ADD STUDENT Harry Potter
+ADD STUDENT Draco Malfoy
+RENT 100000 1001
+RENT 100001 1001
+EXIT
+

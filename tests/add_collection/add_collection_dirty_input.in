@@ -1,0 +1,4 @@
+ADD COLLECTION data/books_dupes.csv
+LIST TYPES
+NUMBER COPIES
+EXIT

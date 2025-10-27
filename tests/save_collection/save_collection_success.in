@@ -1,0 +1,4 @@
+ADD COLLECTION data/books_small.csv
+SAVE COLLECTION data/output.csv
+EXIT
+

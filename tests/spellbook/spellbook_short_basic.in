@@ -1,0 +1,4 @@
+ADD COLLECTION tests/data/books_small.csv
+SPELLBOOK 1001
+EXIT
+

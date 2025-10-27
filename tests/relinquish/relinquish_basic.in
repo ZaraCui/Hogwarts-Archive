@@ -1,0 +1,6 @@
+ADD COLLECTION tests/data/books_small.csv
+ADD STUDENT Hermione Granger
+RENT 100000 1003
+RELINQUISH 100000 1003
+EXIT
+

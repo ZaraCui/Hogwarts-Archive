@@ -1,0 +1,5 @@
+ADD COLLECTION tests/data/books_small.csv
+ADD COLLECTION tests/data/books_dupes.csv
+NUMBER COPIES
+EXIT
+

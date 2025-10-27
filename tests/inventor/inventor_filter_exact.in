@@ -1,0 +1,4 @@
+ADD COLLECTION tests/data/books_small.csv
+INVENTOR Minerva McGonagall
+EXIT
+

@@ -1,0 +1,5 @@
+ADD COLLECTION data/books_small.csv
+ADD STUDENT Harry Potter
+COMMON 100000 100000
+EXIT
+

@@ -1,0 +1,4 @@
+ADD COLLECTION tests/data/books_small.csv
+ADD SPELLBOOK tests/data/books_partial.csv 9999
+EXIT
+

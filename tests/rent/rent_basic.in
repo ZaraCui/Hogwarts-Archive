@@ -1,0 +1,5 @@
+ADD COLLECTION tests/data/books_small.csv
+ADD STUDENT Harry Potter
+RENT 100000 1002
+EXIT
+
