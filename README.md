@@ -119,7 +119,6 @@ Healing
 
 **Jiajie (Zara) Cui**
 Bachelor of Advanced Computing, University of Sydney
-📧 Contact: [your-usyd-email]
 🗓️ Semester 2, 2025
 
 ---
